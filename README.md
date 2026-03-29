@@ -8,9 +8,9 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=built-different-13&label=Profile%20views&color=0e75b6&style=flat-square" alt="Views" height="21" /> 
-  <img src="https://img.shields.io/github/followers/shriram7813?tab=followers&color=0e75b6&style=flat-square" alt="Followers" height="21" width="100" />
-  <img src="https://img.shields.io/github/stars/shriram7813?color=0e75b6&style=flat-square" alt="Stars" height="21" />
-  <img src="https://img.shields.io/github/forks/shriram7813/Software-Engineering?label=Forks&color=0e75b6&style=flat-square" alt="Forks" height="21" />
+  <img src="https://img.shields.io/github/followers/devshriram?tab=followers&color=0e75b6&style=flat-square" alt="Followers" height="21" width="100" />
+  <img src="https://img.shields.io/github/stars/devshriram?color=0e75b6&style=flat-square" alt="Stars" height="21" />
+  <img src="https://img.shields.io/github/forks/devshriram/Software-Engineering?label=Forks&color=0e75b6&style=flat-square" alt="Forks" height="21" />
 </p>
 
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
@@ -91,11 +91,11 @@
 <h2><a id="github-stats"></a><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"> Github Stats</h2>
 <div align="center">
 	
-<img align="center" height="175" width="500" src="https://github-readme-stats.vercel.app/api/top-langs?username=shriram7813&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"   alt="Shriram"/> <br>
+<img align="center" height="175" width="500" src="https://github-readme-stats.vercel.app/api/top-langs?username=devshriram&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"   alt="Shriram"/> <br>
 
-<img align="center" height="200" width="500" src="https://github-readme-stats.vercel.app/api?username=shriram7813&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="500"/> <br>
+<img align="center" height="200" width="500" src="https://github-readme-stats.vercel.app/api?username=devshriram&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="500"/> <br>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=shriram7813)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=devshriram)](https://git.io/streak-stats)
 
 
 </div>
@@ -108,7 +108,7 @@
 <h2>🐍 Snake Eating My Contributions</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shriram7813/shriram7813/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/shriram7813/devshriram/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
 
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
