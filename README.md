@@ -93,7 +93,7 @@
 	
 <img align="center" height="175" width="500" src="https://github-readme-stats.vercel.app/api/top-langs?username=devshriram&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"   alt="Shriram"/> <br>
 
-<img align="center" height="200" width="500" src="https://github-readme-stats.vercel.app/api?username=devshriram&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="500"/> <br>
+<img align="center" height="200" width="500" src="https://github-readme-stats.vercel.app/api?username=devshriram&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="500" alt="Shriram"/> <br>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=devshriram)](https://git.io/streak-stats)
 
@@ -108,14 +108,14 @@
 <h2>🐍 Snake Eating My Contributions</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shriram7813/devshriram/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/devshriram/devshriram/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
 
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
 <h2><a id="graph"></a>📈 Contributions Graph</h2>  
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shriram7813&bg_color=000000&color=ffffff&line=ffffff&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=devshriram&bg_color=000000&color=ffffff&line=ffffff&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
