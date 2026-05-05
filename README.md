@@ -24,7 +24,7 @@
 ![Django Fellow](https://img.shields.io/badge/Django-Fellow-092E20?style=for-the-badge&logo=django&logoColor=white)
 [![committers.top badge](https://user-badge.committers.top/egypt/AhmedNassar7.svg)](https://user-badge.committers.top/egypt/AhmedNassar7)
 -->
-<a href="https://user-badge.committers.top/india/AhmedNassar7">
+<a href="https://user-badge.committers.top/india/devshriram">
   <img src="https://img.shields.io/badge/Top%20Committer%20in%20India-0e75b6?style=for-the-badge&logo=github&logoColor=white" alt="Committers.top India" />
 </a>
 
