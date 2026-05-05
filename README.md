@@ -294,15 +294,11 @@
 <table>
   <tr>
     <td width="50%">
-      <img src="./assets/metrics.plugin.achievements.svg" width="100%">
+      <img src="./assets/metrics.plugin.wakatime.svg" width="100%">
     </td>
     <td width="50%"></td>
   </tr>
 </table>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=devshriram&theme=onedark&no-bg=true&no-frame=true&column=7" />
-</p>
 
 <!-- <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" /> -->
 
