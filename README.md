@@ -305,7 +305,7 @@
 
 <h2>🐍 Snake Eating My Contributions</h2>
 
-<p align="center">
+<p align="center" id="snake">
   <img src="https://raw.githubusercontent.com/devshriram/devshriram/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
 
