@@ -3,15 +3,54 @@
 <h1 id="top" align="center">Hi, I'm Shriram Rai <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1></h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=27&pause=1000&color=15BDDC&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Problem+Solver;An+Avid+Learner" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=27&pause=1000&color=15BDDC&center=true&vCenter=true&width=435&lines=Software+Engineer;Avid+Learner;Built+Different" alt="Typing SVG" /></a>
 </p>
 
+<div align="center">
+
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=built-different-13&label=Profile%20views&color=0e75b6&style=flat-square" alt="Views" height="21" /> 
-  <img src="https://img.shields.io/github/followers/devshriram?tab=followers&color=0e75b6&style=flat-square" alt="Followers" height="21" width="100" />
-  <img src="https://img.shields.io/github/stars/devshriram?color=0e75b6&style=flat-square" alt="Stars" height="21" />
+  <img src="https://komarev.com/ghpvc/?username=built-different-13&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Views" height="21" /> 
+  <img src="https://img.shields.io/github/followers/devshriram?label=Followers&color=0e75b6&style=flat-square" alt="Followers" height="21" />
+  <img src="https://img.shields.io/github/stars/devshriram?label=Stars&color=0e75b6&style=flat-square" alt="Stars" height="21" />
   <img src="https://img.shields.io/github/forks/devshriram/Software-Engineering?label=Forks&color=0e75b6&style=flat-square" alt="Forks" height="21" />
+  <img src="https://img.shields.io/github/watchers/devshriram/Software-Engineering?label=Watchers&style=flat-square&color=0e75b6" alt="Watchers" height="21" />
 </p>
+
+
+<div align="center">
+
+<!-- 
+![Django Fellow](https://img.shields.io/badge/Django-Fellow-092E20?style=for-the-badge&logo=django&logoColor=white)
+[![committers.top badge](https://user-badge.committers.top/egypt/AhmedNassar7.svg)](https://user-badge.committers.top/egypt/AhmedNassar7)
+-->
+<a href="https://user-badge.committers.top/india/AhmedNassar7">
+  <img src="https://img.shields.io/badge/Top%20Committer%20in%20India-0e75b6?style=for-the-badge&logo=github&logoColor=white" alt="Committers.top India" />
+</a>
+
+</div>
+
+<!--
+<div align="center">
+
+![Django](https://img.shields.io/badge/Django-Expert-092E20?style=flat&logo=django&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Advanced-3776AB?style=flat&logo=python&logoColor=white)
+-->
+
+</div>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://trophy.benkou.dev/?username=devshriram&theme=darkhub&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&row=1&column=7" alt="devshriram" /></a> </p>
+
+<div align="center">
+
+<span>[<kbd> <br> About <br> </kbd>](#about)</span>
+<span>[<kbd> <br> Socials <br> </kbd>](#social-media)</span>
+<span>[<kbd> <br> Skills <br> </kbd>](#skills)</span>
+<span>[<kbd> <br> Metrics <br> </kbd>](#metrics)</span>
+<span>[<kbd> <br> Game <br> </kbd>](#game)</span>
+<span>[<kbd> <br> Snake <br> </kbd>](#snake)</span>
+
+</div>
 
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
@@ -19,7 +58,7 @@
 
 <img align="right" width="370" height="320" alt="Coding" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
-- 👨‍🎓 I’m a `Software Engineer`.
+- ⭐ I’m a `Software Engineer`.
   
 - 🚀 Passionate about `Web Development`.
 
@@ -41,22 +80,110 @@
   <img width="900" height="200" alt="Mario" src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif">
 </div>
 
+<!-- <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
+
+
+<h2><a id="work-experience"></a>💼 Work Experience</h2>
+
+| 🏢 Company | 💼 Role |
+| --- | --- |
+| [Mercor](https://www.mercor.com/) | Software Engineer |
+| [Datacurve](https://datacurve.ai/) | Open Source Developer |
+| [Django](https://www.djangoproject.com/) | Member & Open Source Contributor |
+| [Beshara](https://ebeshara.com/) | Java Developer |
+
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
+
+
+<h2><a id="internship-experience"></a>💼 Internship Experience</h2>
+
+| 🏢 Company | 💼 Role | ⏰ Duration |
+| --- | --- | --- |
+| [Deloitte](https://www.deloitte.com/middle-east/en.html) | MIH Program | Oct 2025 - Nov 2025 |
+| [Orange Digital Center](https://www.orangedigitalcenters.com/country/EG/home) | Software Engineer Intern | Sep 2024 - Oct 2024 |
+| [Arab African International Bank](https://www.aaib.com/) | Backend Developer Intern | Jul 2024 - Aug 2024 | 
+| [Nokia](https://www.nokia.com/) | Software Engineer Intern | Aug 2023 - Oct 2023 |
+| [Banque Misr](https://www.banquemisr.com/) | Frontend Developer Intern | Jul 2023 - Aug 2023 |
+
+<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
+
+<h2><a id="open-source"></a>🤝 Open Source Contributions</h2>
+
+| 📂 Repository | 💡 Contribution | 📝 Type | 🔗 PR | 📊 Status |
+| --- | --- | --- | --- | --- |
+| [Django](https://github.com/django/django) | Deprecated HTTP as the default protocol in `urlize` and `urlizetrunc` | Optimization | [#19240](https://github.com/django/django/pull/19240) | ![Static Badge](https://img.shields.io/badge/Merged-8957e5) |
+| ↳ | Fixed contenttypes `shortcut()` view crash for a UUIDField pk | Bug | [#19296](https://github.com/django/django/pull/19296) | ![Static Badge](https://img.shields.io/badge/Merged-8957e5) |
+| ↳ | Fixed test classes with `@translation.override` decorator | Bug | [#19358](https://github.com/django/django/pull/19358) | ![Static Badge](https://img.shields.io/badge/Merged-8957e5) |
+| ↳ | Added docs for testing callable storage in FileField | Optimization | [#19349](https://github.com/django/django/pull/19349) | ![Static Badge](https://img.shields.io/badge/Merged-8957e5) |
+| ↳ | Updated docs on gettext f-string support limitations | Documentation | [#19348](https://github.com/django/django/pull/19348) | ![Static Badge](https://img.shields.io/badge/Merged-8957e5) |
+| ↳ | Optimized no-op migration performance on SQLite | Optimization | [#19278](https://github.com/django/django/pull/19278) | ![Static Badge](https://img.shields.io/badge/Open-2da44e) |
+| [Upwork Clone Frontend](https://github.com/activecourses/upwork-clone-frontend) | Set up Husky pre-commit hooks | DevOps | [#31](https://github.com/activecourses/upwork-clone-frontend/pull/31) | ![Static Badge](https://img.shields.io/badge/Merged-8957e5) |
+| ↳ | Fixed props validation, line endings, and formatting | Code Style | [#32](https://github.com/activecourses/upwork-clone-frontend/pull/32) | ![Static Badge](https://img.shields.io/badge/Merged-8957e5) |
+
+
+<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
+
+
+<h2><a id="training-experience"></a>📚 Training Experience</h2>
+
+| 🏢 Organization | 💼 Role | ⏰ Duration | 📄 Certificate |
+| --- | --- | --- | --- |
+| [Information Technology Institute](https://iti.gov.eg/home) | Frontend using React Trainee | Sep 2024 - Sep 2024 | [Certificate](certificates/training/iti-react.pdf) |
+| ↳ | Web Fundamentals Trainee | Aug 2024 - Sep 2024 | [Certificate](certificates/training/iti-web-development.pdf) |
+| ↳ | Full Stack Web Development using Python Trainee | Jul 2024 - Aug 2024 | [Certificate](certificates/training/iti-python.pdf) |
+| [Coach Academy](https://coachacademy.club/) | Competitive Programming II Trainee | Nov 2023 - April 2024 | [Certificate](certificates/training/coach-academy.pdf) |
+
+<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
+
+<h2><a id="volunteering-experience"></a>🤝 Volunteering Experience</h2>
+
+| 🏢 Student Clubs | 💼 Role | 📄 Certificates |
+| --- | --- | --- |
+| [GDSC Cairo University](https://www.linkedin.com/company/dsccairo/) | Software Developer Member | [Certificate](certificates/volunteering/gdsc-cu.pdf) |
+| [GDSC Zagazig University](https://www.linkedin.com/company/google-dsc-zagazig/) | C++ Developer Member | [Certificate](certificates/volunteering/gdsc-zag.pdf) |
+| [GDSC Al-Azhar University](https://www.linkedin.com/company/gdgcalazhar/) | C++ Developer Member | [Certificate](certificates/volunteering/gdsc-azhar.png) |
+| [ACES](https://www.linkedin.com/company/acesegypt/) | IT Member | [Certificate](certificates/volunteering/aces.pdf) |
+| [Open Source Community](https://www.linkedin.com/company/osc---open-source-community/) | Web Developer Member | [Acceptance](certificates/others/acceptance-osc.jpeg) |
+| [SemiColon](https://www.linkedin.com/company/semicolon.org/) | Data Structure & Algorithms Head | [Core Team](certificates/others/core-team-semicolon.jpeg) |
+| [Enactus Modern Academy](https://www.linkedin.com/company/enactus-modern-academy/) | IT Member | [Acceptance](certificates/others/acceptance-enactus.jpeg) |
+| [GDSC Modern Academy](https://www.linkedin.com/company/gdg-campus-modern-academy-for-computer-science/) | Event Manager Member | [Certificate](certificates/volunteering/gdsc-ma.jpg) |
+| [Techne](https://www.linkedin.com/company/techne.me/) | Event Organizer | [Certificate 2023](certificates/volunteering/techne-23.jpg) \| [Certificate 2024](certificates/volunteering/techne-24.pdf) |
+| [Egypt Career Summit](https://www.linkedin.com/company/egypt-career-summit/) | Event Organizer | [Certificate](certificates/volunteering/ecs.png) |
+| [iCareer](https://www.linkedin.com/company/icareereg/) | Event Organizer | [Core Team](certificates/others/core-team-icareer.jpeg) |
+| [Startups Without Borders](https://www.linkedin.com/company/startups-without-borders-eg/) | Event Organizer | [Acceptance](certificates/others/acceptance-swb.jpeg) |
+| [MSP Tech Club Al-Azhar University](https://www.linkedin.com/company/msp-tech-club-al-azhar-university/) | Frontend Developer Member | [Acceptance](certificates/others/acceptance-msp.jpeg) |
+| [IEEENU CIS](https://www.linkedin.com/company/ieeenu-cis/) | AI Engineer Member | [Acceptance](certificates/others/acceptance-nu.jpeg) |
+| [IEEE ASUSB](https://www.linkedin.com/company/ieee-asusb/) | Fundraiser Member | [Acceptance](certificates/others/acceptance-asu.jpeg) |
+
+
+
+<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" /> -->
 
 
 <h2><a id="social-media"></a><img src="https://user-images.githubusercontent.com/74038190/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif" width="30"> Social Media</h2>
 
-<a href="https://linkedin.com/in/raishriram/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="40" /></a> 
+<a href="https://linkedin.com/in/shriram-rai" target="_blank"><img align="center" src="https://github.com/dheereshag/coloured-icons/blob/master/public/logos/social%20media/linkedin/linkedin.svg" alt="LinkedIn" height="35" width="40" /></a> 
+&nbsp;
+<a href="https://wa.me/7009080883" target="_blank"><img align="center" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/social%20media/whatsapp/whatsapp.svg" alt="WhatsApp" height="40" width="35" /></a>
 &nbsp;
 <a href="https://t.me/F4xAlt" target="_blank"><img align="center" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/social%20media/telegram/telegram.svg" alt="Telegram" height="40" width="35" /></a>
 &nbsp;
-<a href="https://instagram.com/shriramrai_13/" target="_blank"><img align="center" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/social%20media/instagram/instagram.svg" alt="Instagram" height="40" width="35" /></a>
+<a href="https://instagram.com/_shriramrai_" target="_blank"><img align="center" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/social%20media/instagram/instagram.svg" alt="Instagram" height="40" width="35" /></a>
 &nbsp;
-<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
+
+<!-- 
+&nbsp; 
+<a href="https://www.hackerrank.com/a_moh_nassar00" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HacherRank" height="40" width="35" /></a>
+&nbsp; 
+<a href="https://codeforces.com/profile/AhmedNassar7" target="_blank"><img align="center" src="https://github.com/dheereshag/coloured-icons/blob/master/public/logos/technology/codeforces/codeforces.svg" alt="Codeforces" height="40" width="35" /></a> 
+-->
+
+
+<!-- <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" /> -->
 
 
 
-<h2><a id="technical-skills"></a><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"> Technical Skills</h2>
+<h2><a id="skills"></a><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"> Technical Skills</h2>
 
 <!--
 <p align="center">
@@ -65,6 +192,17 @@
   </a>
 </p>
 -->
+
+<!-- <div align="center">
+  <img src="skills/python.svg" alt="Python" width="50" height="50" />
+  <img src="skills/django.svg" alt="Django" width="50" height="50" />
+  <img src="skills/react.svg" alt="React" width="50" height="50" />
+  <img src="skills/javascript.svg" alt="JavaScript" width="50" height="50" />
+  <img src="skills/typescript.svg" alt="TypeScript" width="50" height="50" />
+  <img src="skills/github.svg" alt="GitHub" width="50" height="50" />
+  <img src="skills/mysql.svg" alt="MySQL" width="50" height="50" />
+  <img src="skills/docker.svg" alt="Docker" width="50" height="50" />
+</div> -->
 
 <h3>
   <a id="programming-languages"></a>
@@ -78,30 +216,102 @@
   <img src="https://skillicons.dev/icons?i=cpp" />
 </a>
 
-### 🌐 Web Development  
+<h3>
+  <a id="programming-languages"></a>
+  <picture style="display: inline;">
+    <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width="35px">
+  </picture>
+  Web Development
+</h3>  
+
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=html,css" />
 </a>
 
+### 🗄️ Databases  
+<!-- <a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,redis,dynamodb,firebase" />
+</a> -->
 
-<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
+### ☁️ Cloud & DevOps  
+<!-- <a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,vercel,jenkins" />
+</a> -->
+
+### ⚙️ Tools & Platforms  
+<!-- <a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,postman,vscode,clion,cmake,anaconda,notion,latex,windows,linux" />
+</a> -->
+
+
+<!-- <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
 
 
 <h2><a id="github-stats"></a><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"> Github Stats</h2>
 <div align="center">
 	
-<img align="center" height="175" width="500" src="https://github-readme-stats.vercel.app/api/top-langs?username=devshriram&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"   alt="Shriram"/> <br>
+<img align="center" height="175" width="500" src="https://github-readme-stats.vercel.app/api/top-langs?username=AhmedNassar7&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"   alt="0xabdulkhalid"/>
 
-<img align="center" height="200" width="500" src="https://github-readme-stats.vercel.app/api?username=devshriram&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="500" alt="Shriram"/> <br>
+<img align="center" height="200" width="500" src="https://github-readme-stats.vercel.app/api?username=AhmedNassar7&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="500"/>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=devshriram)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img align="center" width="1000" height="180" src="https://streak-stats.demolab.com?user=ahmednassar7&theme=gruvbox" alt="GitHub Streak" /></a>
 
+<td colspan="2" style="text-align: center;">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AhmedNassar7&theme=gruvbox" alt="Profile Details" " />
+</td>
 
-</div>
+<img width="550px" src="https://github-contributor-stats.vercel.app/api?username=ahmednassar7&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true">
 
+</div> -->
 
-<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
+<!-- <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" /> -->
+
+<h2><a id="metrics"></a><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"> GitHub Metrics</h2>
+ 
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <img src="./assets/metrics.plugin.overview.svg" width="100%">
+    </td>
+    <td valign="top" width="50%">
+      <img src="./assets/metrics.plugin.isocalendar.fullyear.svg" width="100%">
+    </td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <img src="./assets/metrics.plugin.introduction.svg" width="100%">
+    </td>
+    <td valign="top" width="50%">
+      <img src="./assets/metrics.plugin.stargazers.svg" width="100%">
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <img src="./assets/metrics.plugin.wakatime.svg" width="100%">
+    </td>
+    <td valign="top" width="50%">
+      <img src="./assets/metrics.plugin.achievements.svg" width="100%">
+    </td>
+  </tr>
+</table>
+
+<p align="center"> <a href="https://github.com/devshriram?tab=repositories"><img src="https://github-profile-trophy-ahmed.vercel.app/?username=devshriram&theme=onedark&no-bg=true&no-frame=true&column=-1" alt="devshriram" /></a> </p>
+
+<!-- <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" /> -->
+
+<h2><a id="game"></a>🎮 My GitHub Space Shooter Game</h2>
+ 
+<p align="center">
+  <img src="./assets/space_shooter.gif" alt="My GitHub Space Shooter Game" width="100%">
+</p>
+
+<!-- <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" /> -->
 
 
 
@@ -113,13 +323,9 @@
 
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
-<h2><a id="graph"></a>📈 Contributions Graph</h2>  
+<h2>:book: Guest Book</h2>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=devshriram&bg_color=000000&color=ffffff&line=ffffff&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
-
+<p align="center"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=Back+to+Top&color=00526f&style=flat&logo" alt="back to top" /></a></p>
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
