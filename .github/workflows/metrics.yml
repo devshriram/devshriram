@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # 1. Overview (only place where base is used)
+      # Overview
       - name: Overview
         uses: lowlighter/metrics@latest
         with:
@@ -19,7 +19,20 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           base: header, activity, community, repositories
 
-      # 2. Isocalendar (ONLY calendar)
+      # About Me
+      - name: About Me
+        uses: lowlighter/metrics@latest
+        with:
+          filename: assets/metrics.plugin.introduction.svg
+          user: devshriram
+          token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          plugin_introduction: yes
+          plugin_introduction_title: About Me
+          plugin_introduction_text: |
+            Software Engineer || Avid Learner || Competitive Programmer || Built Different
+
+      # Isocalendar
       - name: Isocalendar
         uses: lowlighter/metrics@latest
         with:
@@ -30,17 +43,7 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
 
-      # 3. Introduction (ONLY intro text)
-      - name: Introduction
-        uses: lowlighter/metrics@latest
-        with:
-          filename: assets/metrics.plugin.introduction.svg
-          user: devshriram
-          token: ${{ secrets.GITHUB_TOKEN }}
-          base: ""
-          plugin_introduction: yes
-
-      # 4. Languages (NEW → replaces repeated activity)
+      # Languages (C++ JS HTML CSS only)
       - name: Languages
         uses: lowlighter/metrics@latest
         with:
@@ -49,14 +52,19 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           base: ""
           plugin_languages: yes
-          plugin_languages_limit: 8
+          plugin_languages_limit: 4
+          plugin_languages_details: percentage
+          plugin_languages_sections: most-used
+          plugin_languages_indepth: yes
+          plugin_languages_filter: C++, JavaScript, HTML, CSS
 
-      # 5. Achievements (ONLY badges)
-      - name: Achievements
+      # WakaTime
+      - name: WakaTime
         uses: lowlighter/metrics@latest
         with:
-          filename: assets/metrics.plugin.achievements.svg
+          filename: assets/metrics.plugin.wakatime.svg
           user: devshriram
           token: ${{ secrets.GITHUB_TOKEN }}
           base: ""
-          plugin_achievements: yes
+          plugin_wakatime: yes
+          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
