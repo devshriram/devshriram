@@ -47,7 +47,6 @@
 <span>[<kbd> <br> Socials <br> </kbd>](#social-media)</span>
 <span>[<kbd> <br> Skills <br> </kbd>](#skills)</span>
 <span>[<kbd> <br> Metrics <br> </kbd>](#metrics)</span>
-<span>[<kbd> <br> Game <br> </kbd>](#game)</span>
 <span>[<kbd> <br> Snake <br> </kbd>](#snake)</span>
 
 </div>
@@ -291,14 +290,6 @@
   </tr>
 </table>
 
-<table>
-  <tr>
-    <td width="50%">
-      <img src="./assets/metrics.plugin.wakatime.svg" width="100%">
-    </td>
-    <td width="50%"></td>
-  </tr>
-</table>
 
 <!-- <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" /> -->
 
