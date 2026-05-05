@@ -290,6 +290,14 @@
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td align="center">
+      <img src="./assets/metrics.plugin.wakatime.svg" width="60%">
+    </td>
+  </tr>
+</table>
+
 
 <!-- <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" /> -->
 
