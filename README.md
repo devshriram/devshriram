@@ -267,49 +267,23 @@
 
 <!-- <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" /> -->
 
-<h2><a id="metrics"></a><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"> GitHub Metrics</h2>
- 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <img src="./assets/metrics.plugin.overview.svg" width="100%">
-    </td>
-    <td valign="top" width="50%">
-      <img src="./assets/metrics.plugin.isocalendar.fullyear.svg" width="100%">
-    </td>
-  </tr>
-</table>
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <img src="./assets/metrics.plugin.introduction.svg" width="100%">
-    </td>
-    <td valign="top" width="50%">
-      <img src="./assets/metrics.plugin.stargazers.svg" width="100%">
-    </td>
-  </tr>
-</table>
+<h2><a id="metrics"></a> GitHub Metrics</h2>
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <img src="./assets/metrics.plugin.wakatime.svg" width="100%">
-    </td>
-    <td valign="top" width="50%">
-      <img src="./assets/metrics.plugin.achievements.svg" width="100%">
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github.com/devshriram/devshriram/blob/main/github-metrics.svg" width="100%">
+</p>
 
-<p align="center"> <a href="https://github.com/devshriram?tab=repositories"><img src="https://github-profile-trophy-ahmed.vercel.app/?username=devshriram&theme=onedark&no-bg=true&no-frame=true&column=-1" alt="devshriram" /></a> </p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=devshriram&theme=onedark&no-bg=true&no-frame=true&column=7" />
+</p>
 
 <!-- <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" /> -->
 
-<h2><a id="game"></a>🎮 My GitHub Space Shooter Game</h2>
+<!-- <h2><a id="game"></a>🎮 My GitHub Space Shooter Game</h2>
  
 <p align="center">
   <img src="./assets/space_shooter.gif" alt="My GitHub Space Shooter Game" width="100%">
-</p>
+</p> -->
 
 <!-- <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" /> -->
 
