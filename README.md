@@ -267,11 +267,38 @@
 
 <!-- <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" /> -->
 
-<h2><a id="metrics"></a> GitHub Metrics</h2>
+<h2><a id="metrics"></a><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"> GitHub Metrics</h2>
 
-<p align="center">
-  <img src="https://github.com/devshriram/devshriram/blob/main/github-metrics.svg" width="100%">
-</p>
+<table>
+  <tr>
+    <td width="50%">
+      <img src="./assets/metrics.plugin.overview.svg" width="100%">
+    </td>
+    <td width="50%">
+      <img src="./assets/metrics.plugin.isocalendar.svg" width="100%">
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="50%">
+      <img src="./assets/metrics.plugin.introduction.svg" width="100%">
+    </td>
+    <td width="50%">
+      <img src="./assets/metrics.plugin.stargazers.svg" width="100%">
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="50%">
+      <img src="./assets/metrics.plugin.achievements.svg" width="100%">
+    </td>
+    <td width="50%"></td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=devshriram&theme=onedark&no-bg=true&no-frame=true&column=7" />
