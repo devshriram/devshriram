@@ -282,18 +282,10 @@
 <table>
   <tr>
     <td width="50%">
-      <img src="./assets/metrics.plugin.introduction.svg" width="100%">
-    </td>
-    <td width="50%">
       <img src="./assets/metrics.plugin.languages.svg" width="100%">
     </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="./assets/metrics.plugin.wakatime.svg" width="60%">
+    <td width="50%">
+      <img src="./assets/metrics.plugin.wakatime.svg" width="100%">
     </td>
   </tr>
 </table>
