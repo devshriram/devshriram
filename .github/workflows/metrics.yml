@@ -10,13 +10,14 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Overview + Community
+      - name: Overview
         uses: lowlighter/metrics@latest
         with:
           filename: assets/metrics.plugin.overview.svg
           user: devshriram
           token: ${{ secrets.GITHUB_TOKEN }}
           base: header, activity, community, repositories
+          config_display: large
 
       - name: Isocalendar
         uses: lowlighter/metrics@latest
@@ -25,6 +26,7 @@ jobs:
           user: devshriram
           token: ${{ secrets.GITHUB_TOKEN }}
           plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
 
       - name: Introduction
         uses: lowlighter/metrics@latest
@@ -33,6 +35,7 @@ jobs:
           user: devshriram
           token: ${{ secrets.GITHUB_TOKEN }}
           plugin_introduction: yes
+          plugin_introduction_title: yes
 
       - name: Stargazers
         uses: lowlighter/metrics@latest
@@ -41,6 +44,7 @@ jobs:
           user: devshriram
           token: ${{ secrets.GITHUB_TOKEN }}
           plugin_stargazers: yes
+          plugin_stargazers_charts: yes
 
       - name: Achievements
         uses: lowlighter/metrics@latest
@@ -49,3 +53,4 @@ jobs:
           user: devshriram
           token: ${{ secrets.GITHUB_TOKEN }}
           plugin_achievements: yes
+          plugin_achievements_threshold: X
