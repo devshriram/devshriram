@@ -286,7 +286,7 @@
       <img src="./assets/metrics.plugin.introduction.svg" width="100%">
     </td>
     <td width="50%">
-      <img src="./assets/metrics.plugin.stargazers.svg" width="100%">
+      <img src="./assets/metrics.plugin.languages.svg" width="100%">
     </td>
   </tr>
 </table>
