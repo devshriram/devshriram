@@ -267,7 +267,7 @@
 
 <!-- <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" /> -->
 
-<h2><a id="metrics"></a><img src="https://github.com/devshriram/devshriram/blob/main/github-metrics.svg" width="40"> GitHub Metrics</h2>
+<h2><a id="metrics"></a><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"> GitHub Metrics</h2>
  
 <table>
   <tr>
