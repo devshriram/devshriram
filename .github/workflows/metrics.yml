@@ -1,0 +1,16 @@
+name: Metrics
+
+on:
+  schedule: [{cron: "0 */12 * * *"}]
+  workflow_dispatch:
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate metrics
+        uses: :contentReference[oaicite:0]{index=0}
+        with:
+          user: devshriram
+          token: ${{ secrets.GITHUB_TOKEN }}
+          base: header, activity, community, repositories
