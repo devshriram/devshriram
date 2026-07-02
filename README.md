@@ -303,11 +303,6 @@
 
 
 
-<h2 id="snake">🐍 Snake Eating My Contributions</h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devshriram/devshriram/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
 
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
