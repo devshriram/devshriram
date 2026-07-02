@@ -47,7 +47,6 @@
 <span>[<kbd> <br> Socials <br> </kbd>](#social-media)</span>
 <span>[<kbd> <br> Skills <br> </kbd>](#skills)</span>
 <span>[<kbd> <br> Metrics <br> </kbd>](#metrics)</span>
-<span>[<kbd> <br> Snake <br> </kbd>](#snake)</span>
 
 </div>
 
