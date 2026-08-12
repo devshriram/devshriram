@@ -162,7 +162,7 @@
 
 <h2><a id="social-media"></a><img src="https://user-images.githubusercontent.com/74038190/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif" width="30"> Social Media</h2>
 
-<a href="https://linkedin.com/in/shriram-rai" target="_blank"><img align="center" src="https://github.com/dheereshag/coloured-icons/blob/master/public/logos/social%20media/linkedin/linkedin.svg" alt="LinkedIn" height="35" width="40" /></a> 
+<a href="https://www.linkedin.com/in/raishriram/" target="_blank"><img align="center" src="https://github.com/dheereshag/coloured-icons/blob/master/public/logos/social%20media/linkedin/linkedin.svg" alt="LinkedIn" height="35" width="40" /></a> 
 &nbsp;
 <a href="https://wa.me/7009080883" target="_blank"><img align="center" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/social%20media/whatsapp/whatsapp.svg" alt="WhatsApp" height="40" width="35" /></a>
 &nbsp;
