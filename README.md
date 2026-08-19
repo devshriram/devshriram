@@ -216,6 +216,11 @@
   <img src="https://skillicons.dev/icons?i=cpp" />
 </a>
 
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=js" />
+</a>
+
+
 <h3>
   <a id="programming-languages"></a>
   <picture style="display: inline;">
@@ -225,7 +230,7 @@
 </h3>  
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css" />
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
 </a>
 
 ### 🗄️ Databases  
