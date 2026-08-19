@@ -213,12 +213,9 @@
 </h3>  
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=cpp" />
+  <img src="https://skillicons.dev/icons?i=cpp,js" />
 </a>
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js" />
-</a>
 
 
 <h3>
