@@ -67,8 +67,6 @@
 - 💬 Ask me about `Software Engineering`.
 
 - 🎯 Focus on `Quality` over `Quantity`
-  
-- 🔍 Seeking an `Internship` or a `Job`.
 
 - 🔄 Repeat `Brainstorming`, `Coding`, and `Debugging`.
 
