@@ -29,7 +29,7 @@ jobs:
           base: ""
           plugin_introduction: yes
           plugin_introduction_title: About Me
-          plugin_introduction_text: "Software Engineer || Avid Learner || Competitive Programmer || Built Different"
+          
 
       # 3. Isocalendar
       - name: Isocalendar
