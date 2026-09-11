@@ -168,8 +168,6 @@
 
 <a href="https://www.linkedin.com/in/raishriram/" target="_blank"><img align="center" src="https://github.com/dheereshag/coloured-icons/blob/master/public/logos/social%20media/linkedin/linkedin.svg" alt="LinkedIn" height="35" width="40" /></a> 
 &nbsp;
-<a href="https://wa.me/7009080883" target="_blank"><img align="center" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/social%20media/whatsapp/whatsapp.svg" alt="WhatsApp" height="40" width="35" /></a>
-&nbsp;
 <a href="https://t.me/F4xAlt" target="_blank"><img align="center" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/social%20media/telegram/telegram.svg" alt="Telegram" height="40" width="35" /></a>
 &nbsp;
 <a href="https://instagram.com/_shriramrai_" target="_blank"><img align="center" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/social%20media/instagram/instagram.svg" alt="Instagram" height="40" width="35" /></a>
