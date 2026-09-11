@@ -170,7 +170,7 @@
 &nbsp;
 <a href="https://t.me/F4xAlt" target="_blank"><img align="center" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/social%20media/telegram/telegram.svg" alt="Telegram" height="40" width="35" /></a>
 &nbsp;
-<a href="https://instagram.com/_shriramrai_" target="_blank"><img align="center" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/social%20media/instagram/instagram.svg" alt="Instagram" height="40" width="35" /></a>
+<a href="https://instagram.com/shriram__rai" target="_blank"><img align="center" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/social%20media/instagram/instagram.svg" alt="Instagram" height="40" width="35" /></a>
 &nbsp;
 
 <!-- 
